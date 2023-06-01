@@ -8,21 +8,21 @@
       <h2>Featured Packages</h2>
       <div class="package-list">
         <div class="package-item">
-          <img src="./assets/vue.png" alt="Vue.js">
-          <h3>Vue.js</h3>
-          <p>A progressive JavaScript framework for building user interfaces.</p>
+          
+          <h3>rand</h3>
+          <p>Random number generators and other randomness functionality.</p>
           <a href="#">Learn more</a>
         </div>
         <div class="package-item">
-          <img src="./assets/react.png" alt="React">
-          <h3>React</h3>
-          <p>A JavaScript library for building user interfaces.</p>
+          
+          <h3>tokio</h3>
+          <p>An event-driven, non-blocking I/O platform for writing asynchronous I/O backed applications.</p>
           <a href="#">Learn more</a>
         </div>
         <div class="package-item">
-          <img src="./assets/angular.png" alt="Angular">
-          <h3>Angular</h3>
-          <p>A platform for building web applications.</p>
+          
+          <h3>request</h3>
+          <p>higher level HTTP client library</p>
           <a href="#">Learn more</a>
         </div>
       </div>
@@ -30,11 +30,10 @@
     <div class="popular-tags">
       <h2>Popular Tags</h2>
       <div class="tag-list">
-        <a href="#">#javascript</a>
-        <a href="#">#node.js</a>
-        <a href="#">#react</a>
-        <a href="#">#vue</a>
-        <a href="#">#angular</a>
+        <a href="#">#web</a>
+        <a href="#">#num</a>
+        <a href="#">#sec</a>
+        <a href="#">#net</a>
       </div>
     </div>
   </div>
